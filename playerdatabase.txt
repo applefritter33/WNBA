@@ -1,3 +1,4 @@
+applefritter
 New York Liberty
 2016
 
@@ -197,8 +198,6 @@ Ameryst Alston
 0.0
 0.0
 
-
-New York Liberty
 2015
 
 1
@@ -372,7 +371,6 @@ Avery Warley-Talbert
 0.8
 1.5
 
-New York Liberty
 2014
 
 1
@@ -583,6 +581,7 @@ Janeesa Jeffery
 0.3
 1.0
 
+applefritter
 Phoenix Mercury
 2016
 
@@ -781,7 +780,6 @@ Courtney Williams
 0.3
 0.5
 
-Phoenix Mercury
 2015
 
 1
@@ -953,7 +951,6 @@ Tess Madgen
 0.5
 1.3
 
-Phoenix Mercury
 2014
 
 1
@@ -1099,8 +1096,7 @@ Tiffany Bias
 0.7
 1.1
 
-//Lauren's Stats Tulsa Shock (named Dallas Wings in 2016)
-
+applefritter
 Dallas Wings
 2016 
 
@@ -1273,7 +1269,6 @@ Brianna Kiesel
 0.7
 0.9
 
-Tulsa Shock
 2015 
 
 1
@@ -1445,7 +1440,6 @@ Brittany Hrynko
 0.0
 0.0
 
-Tulsa Shock
 2014 
 
 1
