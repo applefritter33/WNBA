@@ -1,0 +1,167 @@
+Maya Moore
+Minnesota Lynx
+1
+34
+34
+29.7
+6.6
+5.1
+4.2
+1.6
+0.7
+2.3
+19.3
+
+Sylvia Fowles
+Minnesota Lynx
+2
+34
+34
+28.6
+5.4
+8.5
+1.2
+1.3
+1.8
+1.9
+13.9
+
+Seimone Augustus
+Minnesota Lynx
+3
+29
+29
+26.4
+4.8
+2.9
+2.4
+0.5
+0.4
+1.9
+11.2
+
+Lindsay Whalen
+Minnesota Lynx
+4
+32
+32
+24.6
+3.8
+2.6
+3.8
+0.6
+0.0
+1.4
+9.8
+
+Renee Montgomery
+Minnesota Lynx
+5
+34
+2
+19.3
+2.6
+0.9
+2.8
+1.0
+0.1
+1.7
+7.5
+
+Rebekkah Brunson
+Minnesota Lynx
+6
+33
+33
+24.6
+2.8
+7.3
+1.8
+0.9
+0.3
+0.8
+7.4
+
+Natasha Howard
+Minnesota Lynx
+7
+34
+1
+14.6
+2.7
+3.6
+0.8
+0.7
+0.8
+1.1
+6.7
+
+Jia Perkins
+Minnesota Lynx
+8
+34
+5
+20.7
+2.4
+2.6
+1.3
+0.9
+0.2
+0.7
+6.4
+
+Janel McCarville
+Minnesota Lynx
+9
+33
+0
+12.6
+1.5
+2.5
+1.6
+0.6
+0.3
+0.7
+3.3
+
+Anna Cruz
+Minnesota Lynx
+10
+6
+0
+10.0
+0.8
+1.0
+2.0
+0.3
+0.0
+0.3
+2.8
+
+Keisha Hampton
+Minnesota Lynx
+11
+27
+0
+6.7
+0.7
+0.4
+0.4
+0.3
+0.1
+0.4
+2.6
+
+Bashaara Graves
+Minnesota Lynx
+12
+12
+0
+3.4
+0.2
+0.3
+0.2
+0.0
+0.0
+0.3
+0.3
